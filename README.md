@@ -4,7 +4,7 @@
 
 <br>
 
-#### <strong>✔Brief profile</strong>
+### <strong>✔Brief profile</strong>
 
 - Name : Jaeyun Jung
    
@@ -54,17 +54,29 @@
 |<strong>Mos Master </strong> <br><em>Microsoft</em>| 2019.11 | 합격 |
 
 
+---
+### interseted Tech & lang 
 
+#### <em> WEB Development</em>
 
+![HTML](https://img.shields.io/static/v1?label=lang&message=HTML&color=red)
+![CSS](https://img.shields.io/static/v1?label=lang&message=CSS&color=1252FF)
+![JS](https://img.shields.io/static/v1?label=lang&message=JS&color=FFE800)
+![React](https://img.shields.io/static/v1?label=framework&message=React&color=00B3EE)
+![Django](https://img.shields.io/static/v1?label=lib&message=Django&color=00B173)
+![MySql](https://img.shields.io/static/v1?label=lang&message=MySql&color=FF9F00)
 
+#### <em>Programming Languages</em>
 
+![Python](https://img.shields.io/static/v1?label=lang&message=Python&color=02319E)
+![Java](https://img.shields.io/static/v1?label=lang&message=Java&color=FF4900)
 
+#### <em>Tech</em>
+![CloudSystem](https://img.shields.io/static/v1?label=tech&message=Cloud&color=white)
+![AI](https://img.shields.io/static/v1?label=tech&message=AI&color=7842FC)
 
+---
 
+<br>
 
-
-
-
-
-![Againyunn's github stats](https://github-readme-stats.vercel.app/api?username=Againyunn&show_icons=true)
-[![Againyunn's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Againyunn&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Againyunn)
+![Againyunn's github stats](https://github-readme-stats.vercel.app/api?username=Againyunn&show_icons=true)  [![Againyunn's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Againyunn&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Againyunn) 
