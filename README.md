@@ -72,7 +72,8 @@
 ![Python](https://img.shields.io/static/v1?label=lang&message=Python&color=02319E)
 ![Java](https://img.shields.io/static/v1?label=lang&message=Java&color=FF4900)
 
-#### <em>Tech</em>
+#### <em>Interseted Tech</em>
+![WebService](https://img.shields.io/static/v1?label=tech&message=Web&color=#FF88A7)
 ![CloudSystem](https://img.shields.io/static/v1?label=tech&message=Cloud&color=white)
 ![AI](https://img.shields.io/static/v1?label=tech&message=AI&color=7842FC)
 
