@@ -1,10 +1,10 @@
 # THANKS for visting Againyunn's GITHUB
 
-### <em>An aspiring developer who will create necessary and user-friendly services.</em>
+## <em>An aspiring developer who will create necessary and user-friendly services.</em>
 
 <br>
 
-### <strong>✔Brief profile</strong>
+## <strong>✔Brief profile</strong>
 
 - <b>Name</b> : Jaeyun Jung
    
@@ -21,20 +21,20 @@
 
 ---
 
-### Professional Experience
+## <strong>◽Professional Experience</strong>
 
 | <b> Company name | Period | Activity & Role </b> |
 |---|---|---|
 | <strong>(주)클루커스</strong> <br>계약직 | 22.02.12~          |<em>기술지원팀</em> <br><small>근무예정</small>|
-| <strong>(주)위메프오</strong> <br>계약직 근무 | 21.06.21 <br>~21.08.20 |<em>위메프 소속 O2O배달어플 위메프오</em> <br> 삼성역 본사 O2O운영팀-지원파트 소속 사원으로 홈페이지, 어플에 딜등록, 수정, 사업주와 컨택(인/아웃 바운드) 및 외부pos프로그램 연동, 주문접수프로그램 Error처리& 사후관리를 포함한 전반적인 지원업무 담당 |
-| <strong>디지털유목민 </strong> <br> 외대 소속 근로장학생 | 21.04 <br>~21.06 |<em>외대 창업 보육센터 입주 스타트업</em> <br>외국인 대상 한국 역사교육 콘텐츠기획 & 여행 콘텐츠 기획, 데이터 수립 및 추출 후 엑셀 시각화, 정부제출용 사업기획서 제작, 정부사업 PPT 제작 및 대본 작성 <br>(학기 중- 주 3일 6시간 근무) |
-| <strong>(유한회사) miso</strong> <br>계약직 근무 | 20.09.11 <br>~20.10.31 | 신규 부서(미소 이사서비스) 영업부 CRM 주말팀 고객관리, 아웃바운드 업무 (고객인입건 처리, 견적산출 및 이사 파트너 매칭안내 업무), 마케팅성과 측정 후 보고 |
-| <strong>(주)위메프</strong> <br>계약직 근무 | 19.12.01 <br>~20.08.29 | 삼성역 본사 O2O영업팀-영업지원파트 소속 사원으로 홈페이지, 어플에 딜등록, 수정, 사업주와컨택(인/아웃 바운드) 및 전반적인 영업관련 지원 담당(엑셀,워드 및 문서 정리) |
-| <strong>정보통신대대</strong> <br>군복무 | 18.03.26 <br>~19.11.23 | 사령부 정보통신대대의 통신선로(네트워크선, 전화선, 전기선)구성, 고장수리 조치, 사령부 통신망 구성도 워드 및 엑셀 작성 업무 담당 |
-| <strong>잠실고등학교</strong> <br>명예교사 | 17.07 <br>~17.11 | 잠실고등학교 야간 자율학습 지도업무를 하며, 학생들 출석관리 및 공부과목(국,영,수,사회)질문에 대한 답변, 공부 방법을 제시하고 진학/진로상담 업무 수행 |
+| <strong>(주)위메프오</strong> <br>계약직 근무 | 21.06.21 <br>~21.08.20 |<em>위메프 소속 O2O배달어플 위메프오</em> <br> 삼성역 본사 O2O운영팀-지원파트 소속 사원으로 홈페이지, 어플에 딜등록, 수정, 사업주와 컨택(인/아웃 바운드) 및 외부pos프로그램 연동, 주문접수프로그램 Error처리& 사후관리를 포함한 전반적인 지원업무|
+| <strong>디지털유목민 </strong> <br> 외대 소속 근로장학생 | 21.04 <br>~21.06 |<em>외대 창업 보육센터 입주 스타트업</em> <br> 외국인 대상 한국 역사교육 콘텐츠기획 & 여행 콘텐츠 기획, 데이터 수립 및 추출 후 엑셀 시각화, 정부제출용 사업기획서 제작 보조, 정부사업 PPT 및 대본 제작<br>(학기 중- 주 3일 6시간 근무) |
+| <strong>(유한회사) miso</strong> <br>계약직 근무 | 20.09.11 <br>~20.10.31 | 신규 부서(미소 이사서비스) Moving부서 CRM 주말팀 고객관리, 아웃바운드 업무(고객인입건 처리, 이사견적산출 및 이사 파트너 매칭안내 업무), 마케팅성과 측정 및 보고 |
+| <strong>(주)위메프</strong> <br>계약직 근무 | 19.12.01 <br>~20.08.29 | 삼성역 본사 O2O사업부-영업지원파트 소속 사원으로 홈페이지, 어플에 딜등록, 수정, 프랜차이즈 매장 딜등록 및 운영 지원, 개인 사업주와 컨택(인/아웃 바운드) 및 전반적인 영업관련 지원 |
+| <strong>정보통신대대</strong> <br>군 복무 | 18.03.26 <br>~19.11.23 | 사단 사령부 정보통신대대의 통신선로(네트워크선, 전화선, 전기선)구축, 회선 및 시스템 고장수리 조치, 사령부 영내 종합 통신망 구성도 워드 및 엑셀 제작, 보수 |
+| <strong>잠실고등학교</strong> <br>명예교사 | 17.07 <br>~17.11 | 잠실고등학교 야간 자율학습 지도업무를 하며, 학생들 출석관리 및 공부과목(국,영,수,사회)질문에 대한 답변, 진학/진로상담 |
 
 ---
-### Extracurricular Activities
+## ◽Extracurricular Activities
 
 | <b> Activity name | Period | Activity & Role </b> |
 |---|---|---|
@@ -44,20 +44,21 @@
 | <strong>Club Acticity</strong> <br>GNuVil(외대 코딩 동아리)부원 | 21.03.02<br>~현재 | 알고리즘 스터디, 인공지능 스터디 학습 |
 | <strong>SW government funding program</strong> <br>SW국비지원 웹개발 <br>🏆최우수상 수상 | 21.01.05<br>~21.01.29 | 랜덤 데이트 추천 사이트 개발 <br>(Django와 Naver Cloud Platform 활용)  <br>[Blog Post link](https://blog.naver.com/rangyun/222240831159) <br>[Github link](https://github.com/Againyunn/RandomDating)|
 | <strong>Industry-academic connection program</strong> <br><em>중소벤처기업진흥공단 주최, 이커머스특성화대학</em><br>전자상거래 실습 진행 및 선발 장학생 | 20.07.28<br>~20.12.21 | 무역상사 Zeffiro Inc와 연계하여 한국 제품을 Shopee 싱가포르에 상품 등록 및 마케팅(인플루언서 마케팅, Facebook/Instagram 마케팅), 실제 판매 <br>상품 기획 및 마케팅 전략 수립, 프로젝트 전반적 진행 |
-| 학업우수 장학생 | 2017.2st semester | HUFS UP 장학금 |
+| 학업우수 장학생 | 2017.2st semester | HUFS 장학금 수령 |
 
 ---
-### Certifications
+## ◽Certifications
 | <b> Certifications name | Date of acquisition | Activity & Role </b> |
 |---|---|---|
-|<strong>TOEIC</strong> | 2021.02 | 815/990 |
+|<strong>TOEIC <br><em>ETS</em></strong> | 2021.02 | 815/990 |
 |<strong>유통관리사2급</strong> <br><em>대한상공회의소</em> | 2020.08 | 합격 |
 |<strong>Mos Master </strong> <br><em>Microsoft</em>| 2019.11 | 합격 |
 
 
 ---
-### interseted Tech & lang 
+## ◽Programming
 
+### part1. Use & Practice
 #### <em> WEB Development</em>
 
 ![HTML](https://img.shields.io/static/v1?label=lang&message=HTML&color=red)
@@ -72,6 +73,9 @@
 ![Python](https://img.shields.io/static/v1?label=lang&message=Python&color=02319E)
 ![Java](https://img.shields.io/static/v1?label=lang&message=Java&color=FF4900)
 
+<br>
+
+### part2. Tech
 #### <em>Interseted Tech</em>
 ![WebService](https://img.shields.io/static/v1?label=tech&message=Web&color=#FF88A7)
 ![CloudSystem](https://img.shields.io/static/v1?label=tech&message=Cloud&color=white)
