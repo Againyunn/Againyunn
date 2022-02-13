@@ -1,6 +1,6 @@
 # THANKS for visting Againyunn's GITHUB
 
-## <em>An aspiring developer who will create necessary and user-friendly services.</em>
+### <em>An aspiring developer who will create necessary and user-friendly services.</em>
 
 <br>
 
@@ -51,7 +51,7 @@
 ## ◽Certifications
 | <b> Certifications name | Date of acquisition | Activity & Role </b> |
 |---|---|---|
-|<strong>TOEIC <br><em>ETS</em></strong> | 2021.02 | 815/990 |
+|<strong>TOEIC</strong> <br><em>ETS</em> | 2021.02 | 815/990 |
 |<strong>유통관리사2급</strong> <br><em>대한상공회의소</em> | 2020.08 | 합격 |
 |<strong>Mos Master </strong> <br><em>Microsoft</em>| 2019.11 | 합격 |
 
