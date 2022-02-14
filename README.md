@@ -62,17 +62,17 @@
 ### part1. Use & Studying
 #### <em> WEB Development</em>
 
-![HTML](https://img.shields.io/static/v1?label=lang&message=HTML&color=red)
-![CSS](https://img.shields.io/static/v1?label=lang&message=CSS&color=1252FF)
-![JS](https://img.shields.io/static/v1?label=lang&message=JS&color=FFE800)
-![React](https://img.shields.io/static/v1?label=lib&message=React&color=00B3EE)
-![Django](https://img.shields.io/static/v1?label=framework&message=Django&color=00B173)
-![MySql](https://img.shields.io/static/v1?label=lang&message=MySql&color=FF9F00)
+![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=red)
+![CSS](https://img.shields.io/static/v1?label=&message=CSS&color=1252FF)
+![JS](https://img.shields.io/static/v1?label=&message=JS&color=FFE800)
+![React](https://img.shields.io/static/v1?label=&message=React&color=00B3EE)
+![Django](https://img.shields.io/static/v1?label=&message=Django&color=00B173)
+![MySql](https://img.shields.io/static/v1?label=&message=MySql&color=FF9F00)
 
 #### <em>Programming Languages</em>
 
-![Python](https://img.shields.io/static/v1?label=lang&message=Python&color=02319E)
-![Java](https://img.shields.io/static/v1?label=lang&message=Java&color=FF4900)
+![Python](https://img.shields.io/static/v1?label=&message=Python&color=02319E)
+![Java](https://img.shields.io/static/v1?label=&message=Java&color=FF4900)
 
 <br>
 
