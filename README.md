@@ -79,7 +79,7 @@
 #### <em>Interseted Tech</em>
 ![WebService](https://img.shields.io/static/v1?label=tech&message=Web&color=#FF88A7)
 ![CloudSystem](https://img.shields.io/static/v1?label=tech&message=CloudSys&color=white)
-![AI](https://img.shields.io/static/v1?label=tech&message=AI&color=7842FC)
+![AI](https://img.shields.io/static/v1?label=tech&message=AI&color=#9E0ADD)
 
 ---
 
