@@ -36,7 +36,7 @@
 
 | <b> Activity name | Period | Activity & Role </b> |
 |---|---|---|
-| <strong>HUFS 종합설계</strong> <br>팀장 & 프론트엔드 개발자 | 22.03.07<br>~현재 |<em>*한국외국어대학교 이중전공 선택 및 지원 서비스 개발</em> <br> 기획 & 개발 중 |
+| <strong>HUFS 종합설계</strong> <br>팀장 & 프론트엔드 개발 | 22.03.07<br>~현재 |<em>*한국외국어대학교 이중전공 선택 및 지원 서비스 개발</em> <br> 기획 & 개발 중 |
 | <strong>Reposeidon</strong> <br>팀 프로젝트 | 22.03.03<br>~현재 |<em>AI기반 검색 서비스 개발</em> <br> 개발 중 |
 | <strong>직무부트캠프</strong> | 22.02.15<br>~22.03.15 | <em>프론트엔드 개발 직무부트캠프 수강 및 수료</em> <br>간단한 쇼핑몰 개발 프로젝트 수행 <br>[Github link](https://github.com/Againyunn/now) |
 | <strong>AI Education Institute</strong> <br>SW 교육 조교 | 22.02.07<br>~22.02.18 |<em>*한국외국어대학교 신입생 학기 전 SW 교육 조교</em><br>학생들의 python 실습&과제 질의응답 |
