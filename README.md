@@ -36,14 +36,14 @@
 
 | <b> Activity name | Period | Activity & Role </b> |
 |---|---|---|
-| <strong>종합설계</strong> <br>팀장 | 22.03.07<br>~현재 |<em>*한국외국어대학교 이중전공 선택 및 지원 서비스 개발</em><br>-서비스명: 너의 이중전공은? <br>-역할: 프론트엔드 개발 & 프로젝트 일정관리 <br>기획 & 개발 중 |
+| <strong>종합설계</strong> <br>팀장 | 22.03.07<br>~현재 |<em>*한국외국어대학교 이중전공 선택 및 지원 서비스 개발</em><br>-서비스명: 너의 이중전공은? <br>-역할: 프론트엔드 개발 & 프로젝트 일정관리 <br>기획 & 개발 중 <br>📚[Notion link](https://honorable-tune-44f.notion.site/22-1-AI-f44b247157e54747b77b3dad9a395369)|
 | <strong>Reposeidon</strong> <br>팀원 | 22.03.03<br>~현재 |<em>*AI기반 검색 서비스 개발</em><br>-서비스명: Reposeidon<br>-역할: 백엔드 개발 & 프론트엔드 지원 <br> 개발 중 |
-| <strong>직무부트캠프</strong> | 22.02.15<br>~22.03.15 | <em>프론트엔드 개발 직무부트캠프 수강 및 수료</em> <br>간단한 쇼핑몰 개발 프로젝트 수행 <br>[Github link](https://github.com/Againyunn/now) |
+| <strong>직무부트캠프</strong> | 22.02.15<br>~22.03.15 | <em>프론트엔드 개발 직무부트캠프 수강 및 수료</em> <br>간단한 쇼핑몰 개발 프로젝트 수행 <br>💻[Github link](https://github.com/Againyunn/now) |
 | <strong>AI Education Institute</strong> <br>SW 교육 조교 | 22.02.07<br>~22.02.18 |<em>*한국외국어대학교 신입생 학기 전 SW 교육 조교</em><br>학생들의 python 실습&과제 질의응답 |
 | <strong>2022 HUFS SW Volunteer</strong> <br>SW봉사단원 | 22.01.24 <br>~현재 | SW사업단 연계 교육 봉사<br>(프로그래밍 소개 및 입문교육, Programming Education Tutoring) |
-| <strong>Capstone Design</strong> <br>valto팀 기획자&개발자<br>🏆최우수상 수상  | 21.09.01<br>~21.12.31 | 웹 사이트 기획, 프론트엔드 디자인, 백엔드 개발 및 서버 운용 역할 수행<br>(웹 서비스 기획, Front-End 디자인 및 배치 기획)<br>(Django Framework, MySql, Vultr의 Ubuntu Server 활용하여 Back-End 구축)<br>[Blog Post link](https://blog.naver.com/rangyun/222619359347) <br>[Github link](https://github.com/Againyunn/valto) |
+| <strong>Capstone Design</strong> <br>valto팀 기획자&개발자<br>🏆최우수상 수상  | 21.09.01<br>~21.12.31 | 웹 사이트 기획, 프론트엔드 디자인, 백엔드 개발 및 서버 운용 역할 수행<br>(웹 서비스 기획, Front-End 디자인 및 배치 기획)<br>(Django Framework, MySql, Vultr의 Ubuntu Server 활용하여 Back-End 구축)<br>✒[Blog Post link](https://blog.naver.com/rangyun/222619359347) <br>💻[Github link](https://github.com/Againyunn/valto) |
 | <strong>Club Acticity</strong> <br>GNuVil 부원 | 21.03.02<br>~ 22.01.31 |<em>*교내 중앙 코딩동아리</em><br>알고리즘 스터디, 인공지능 스터디 학습 |
-| <strong>SW government funding program</strong> <br>SW국비지원 웹개발 <br>🏆최우수상 수상 | 21.01.05<br>~21.01.29 | 랜덤 데이트 추천 사이트 개발 <br>(Django와 Naver Cloud Platform 활용)  <br>[Blog Post link](https://blog.naver.com/rangyun/222240831159) <br>[Github link](https://github.com/Againyunn/RandomDating)|
+| <strong>SW government funding program</strong> <br>SW국비지원 웹개발 <br>🏆최우수상 수상 | 21.01.05<br>~21.01.29 | 랜덤 데이트 추천 사이트 개발 <br>(Django와 Naver Cloud Platform 활용)  <br>✒[Blog Post link](https://blog.naver.com/rangyun/222240831159) <br>💻[Github link](https://github.com/Againyunn/RandomDating)|
 | <strong>Industry-academic connection program</strong><br>전자상거래 실습 선발생| 20.07.28<br>~20.12.21 |<em>*중소벤처기업진흥공단 이커머스특성화대학 주관</em><br>무역상사 Zeffiro Inc와 연계하여 한국 제품을 Shopee 싱가포르에 상품 등록 및 마케팅(인플루언서 마케팅, Facebook/Instagram 마케팅), 실제 판매 <br>상품 기획 및 마케팅 전략 수립, 프로젝트 전반적 운영 지원 |
 | 학업우수 장학생 | 2017.2st semester | HUFS UP 장학금 |
 
