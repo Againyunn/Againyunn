@@ -37,7 +37,7 @@
 
 | <b> Activity name | Period | Activity & Role </b> |
 |---|---|---|
-| <strong>22-1 종합설계</strong><br>팀장 | 22.03.07<br>~현재 |<em>*한국외국어대학교 이중전공 추천 및 지원 서비스</em><br>-서비스명: 너의 이중전공은? <br>-역할: 프론트엔드 개발 & 프로젝트 일정관리 <br>기획 & 개발 중 <br> 💻[Github link](https://github.com/Againyunn/Comprehensive-design)|
+| <strong>22-1 종합설계</strong><br>팀장 | 22.03.07<br>~현재 |<em>*한국외국어대학교 이중전공 추천 및 지원 서비스</em><br>-서비스명: 너의 이중전공은? <br>-역할: Front-End개발, UI/UX설계, API구축&개발, 프로젝트 운영&관리<br>기획 & 개발 완료 <br> 💻[Github link](https://github.com/Againyunn/Comprehensive-design) <br> [📱web page](http://43.200.48.156:8080/#/)|
 | <strong>Reposeidon</strong> <br>팀원 | 22.03.03<br>~현재 |<em>*AI기반 검색 서비스</em><br>-서비스명: Reposeidon<br>-역할: 백엔드 개발 & 프론트엔드 지원 <br> 개발 중 |
 | <strong>직무부트캠프</strong> | 22.02.15<br>~22.03.15 | <em>프론트엔드 개발 직무부트캠프 수강 및 수료</em> <br>간단한 쇼핑몰 개발 프로젝트 수행 <br>💻[Github link](https://github.com/Againyunn/now) <br> [📱web page](https://againyunn.github.io/now/) |
 | <strong>AI Education Institute</strong> <br>SW 교육 조교 | 22.02.07<br>~22.02.18 |<em>*한국외국어대학교 신입생 학기 전 SW 교육 조교</em><br>학생들의 python 실습&과제 질의응답 <br>💻[Github link](https://github.com/Againyunn/HUFS_SW_Education) |
