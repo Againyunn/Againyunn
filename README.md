@@ -48,14 +48,6 @@
 | <strong>Industry-academic connection program</strong><br>전자상거래 실습 선발생| 20.07.28<br>~20.12.21 |<em>*중소벤처기업진흥공단 이커머스특성화대학 주관</em><br>무역상사 Zeffiro Inc와 연계하여 한국 제품을 Shopee 싱가포르에 상품 등록 및 마케팅(인플루언서 마케팅, Facebook/Instagram 마케팅), 실제 판매 <br>상품 기획 및 마케팅 전략 수립, 프로젝트 전반적 운영 지원 |
 | 학업우수 장학생 | 2017.2st semester | HUFS UP 장학금 |
 
----
-## ◽Certifications
-| <b> Certifications name | Date of acquisition | Activity & Role </b> |
-|---|---|---|
-|<strong>TOEIC</strong> <br><em>ETS</em> | 2021.02 | 815/990 |
-|<strong>유통관리사2급</strong> <br><em>대한상공회의소</em> | 2020.08 | 합격 |
-|<strong>Mos Master </strong> <br><em>Microsoft</em>| 2019.11 | 합격 |
-
 
 ---
 ## ◽Programming
