@@ -37,7 +37,7 @@
 
 | <b> Activity name | Period | Activity & Role </b> |
 |---|---|---|
-| <strong>Maker in HUFS 멘토 <br/>한국외대 AI교육원 </strong><br>멘토(웹 개발 분야) | 22.07.25<br>~22.08.20 |<em>*2022 HUFS SW Volunteer활동</em><br>웹 개발 학습 및 프로젝트를 개발하는 후배들을 위한 멘토링 활동 |
+| <strong>Maker in HUFS 멘토 <br/>한국외대 AI교육원 </strong><br>멘토(웹 개발 분야) | 22.07.25<br>~22.08.22 |<em>*2022 HUFS SW Volunteer활동</em><br>웹 개발 학습 및 프로젝트를 개발하는 후배들을 위한 멘토링 활동 <br>📱[활동자료](https://sites.google.com/hufs.ac.kr/maker-in-hufs-web) |
 | <strong>한국외대X설악고등학교<br/>SW진로체험교육</strong><br>멘토(주강사) | 22.07.14 |<em>*2022 HUFS SW Volunteer활동</em><br>-강의 명: 공학계열 대학생 멘토와 함께하는 SW/AI진로설계<br>-역할: 멘토링 강의 <br> 🔉[강의교안](https://github.com/Againyunn/HUFS_SW_Education/tree/main/%ED%95%9C%EA%B5%AD%EC%99%B8%EB%8C%80%20x%20%EC%84%A4%EC%95%85%EA%B3%A0%EB%93%B1%ED%95%99%EA%B5%90%20sw%EC%A7%84%EB%A1%9C%EC%B2%B4%ED%97%98%20%EA%B5%90%EC%9C%A1%20%EA%B0%95%EC%9D%98) |
 | <strong>sw공동해커톤</strong><br>팀장<br>🏆우수상 수상 | 22.06.22<br>~06.24 |<em>*2022 sw중심대학 공동해커톤 sw중심대학협의회장상</em><br>-서비스 명: 카페의 민족 <br>-역할: 서비스 기획, Front-End개발 <br>💻[Github link](https://github.com/SW-HACKATHON-CAMIN) |
 | <strong>22-1 종합설계</strong><br>팀장 | 22.03.07<br>~22.06.21 |<em>*한국외국어대학교 이중전공 추천 및 지원 서비스</em><br>-서비스명: 너의 이중전공은? <br>-역할: Front-End개발, UI/UX설계, API구축&개발, 프로젝트 운영&관리<br>기획 & 개발 완료 <br> 💻[Github link](https://github.com/Againyunn/Comprehensive-design) <br> ⚙[organization link](https://github.com/Whats-Your-DualMajor) <br> [📱web page](http://43.200.48.156:8080/#/) <br> [🎤PT](https://www.miricanvas.com/v/116urx9)|
@@ -56,25 +56,28 @@
 ## ◽Programming
 
 ### part1. Use & Studying
-#### <em>🛠WEB Development</em>
+#### <em>🛠WEB/APP Development</em>
 <div align=left> 
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=Html5&logoColor=white"> 
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=Css3&logoColor=white"> 
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=React&logoColor=black"> 
   <img src="https://img.shields.io/badge/vue-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white"> 
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=MySql&logoColor=white"> 
+  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=Django&logoColor=white">
+  <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=Php&logoColor=white"> 
+  <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white"> 
 </div>
+
 <br>
 
 #### <em>⚒Programming Languages</em>
 
 <div align=left> 
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> 
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
-  <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
+  <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white">
 </div>
 <br>
 
