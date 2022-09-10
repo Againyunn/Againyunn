@@ -26,7 +26,8 @@
 
 | <b> Company name</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <b>Period | Activity & Role </b>|
 | :--- | :---: | :--- |
-| <strong>(주)클루커스</strong> | 22.02.13<br>~현재  |<em>*기술지원팀</em> <br>MS Azure Cloud Server 기반 고객사 VDI 모니터링, 이슈 처리 및 대응 |
+| <strong>(주)긱스로프트</strong> | 22.09.01<br>~현재 |<b>프론트엔드 개발 인턴</b>|
+| <strong>(주)클루커스</strong> | 22.02.13<br>~22.09.17  |<em>*기술지원팀</em> <br>MS Azure Cloud Server 기반 고객사 VDI 모니터링, 이슈 처리 및 대응 |
 | <strong>(주)위메프오</strong> | 21.06.21 <br>~21.08.20 |<em>*위메프 소속 O2O배달어플 위메프오</em> <br> O2O운영실 사원으로 홈페이지, 모바일 어플리케이션에 상품/매장 등록&수정, 프랜차이즈업체 상품 및 매장 등록, 파트너사 관리 및 운영지원, 외부 배달 서비스 및 pos프로그램 연동, 주문 접수 프로그램 Error처리 및 대응, 사후 관리|
 | <strong>디지털유목민 </strong> <br> 근로 장학생| 21.04 <br>~21.06 |<em>*외대 창업 보육센터 입주 스타트업</em> <br>여행 관련 데이터 체계 수립 및 추출，스프레드시트 활용 일정 관리 등 프로젝트 관리 업무 자동화, 전국 시도 별 여행 콘텐츠 기획, 정부 제출용 사업 기획서 작성 보조 |
 | <strong>(유한회사) miso</strong> | 20.09.11 <br>~20.10.31 | <em>*Moving부서(미소 이사서비스) CRM팀</em><br>이사&청소 견적산출 및 이사 파트너 매칭안내 업무, 마케팅성과기록 |
@@ -60,8 +61,8 @@
 <div align=left> 
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=Html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=Css3&logoColor=white"> 
-  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=React&logoColor=black"> 
-  <img src="https://img.shields.io/badge/vue-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
+  <img src="https://img.shields.io/badge/react.js-61DAFB?style=for-the-badge&logo=React&logoColor=black"> 
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=MySql&logoColor=white"> 
   <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=Django&logoColor=white">
   <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=Php&logoColor=white"> 
@@ -75,7 +76,7 @@
 <div align=left> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> 
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
   <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
   <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white">
 </div>
