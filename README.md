@@ -1,6 +1,7 @@
 # THANKS for visting Againyunn's GITHUB
 
-### <em>An aspiring developer who will create necessary and user-friendly services.</em>
+### <em>Hello. I'm junior web frontend developer.<br/>
+I like to create ideas that I imagined and try to keep learning for move forward☺️</em>
 
 <br>
 
