@@ -62,7 +62,7 @@
 <strong>&nbsp;&nbsp;1st Major</strong> : Global Business & Technology
 
 <strong>&nbsp;&nbsp;2nd Major</strong> : Computer Engineering
-     
+
 <strong>&nbsp;&nbsp;Total GPA</strong> : 4.09 / 4.5
 
 <br/>
@@ -96,5 +96,9 @@
 | <strong>Industry-academic connection program</strong><br>전자상거래 실습 선발생| 20.07.28<br>~20.12.21 |<em>*중소벤처기업진흥공단 이커머스특성화대학 주관</em><br>무역상사 Zeffiro Inc와 연계하여 한국 제품을 Shopee 싱가포르에 상품 등록 및 마케팅(인플루언서 마케팅, Facebook/Instagram 마케팅), 실제 판매 <br>상품 기획 및 마케팅 전략 수립, 프로젝트 전반적 운영 지원 |
 | 학업우수 장학생 | 2017.2st semester | HUFS UP 장학금 |
 <br/>
-      
+
+<div align="center">
+
 ![Againyunn's github stats](https://github-readme-stats.vercel.app/api?username=Againyunn&show_icons=true)
+
+</div>
