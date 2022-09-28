@@ -1,44 +1,87 @@
-<h1> Againyunn's GITHUB</h1>
-
-<em>Hello. I'm junior web frontend developer.<br/>
-I like to create ideas that I imagined and try to keep learning for move forward☺️</em>
-
-<br>
-
-<h1><strong>❇︎ Brief profile</strong></h1>
-
-- <b>Name</b> : Jaeyun Jung
+<div align="center">
    
-- <b>E-mail</b> : 📧rangyun36@gmail.com
-
-- <b>Education</b> : [🏛](https://www.hufs.ac.kr)Hankuk University of Foreign Studies
-
-     &nbsp;&nbsp;First Major : [📧](http://hufsgbtgbt.cafe24.com)Global Business & Technology
-
-     &nbsp;&nbsp;Second Major : [💻](https://computer.hufs.ac.kr/ces/index.do)Computer Engineering
-
-- <b>Personal Blog</b> : [📝Againyunn's Blog link](https://blog.naver.com/rangyun)
-- <b>instagram</b> : [📷Againyunn's instagram link](https://www.instagram.com/again_yunn/)
+![header](https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=300&section=header&text=JaeyunJung's%20Github&fontSize=60)
+   
+   <div>
+      <em>Hello. I'm junior web frontend developer.<br/>
+       I like to create ideas that I imagined and try to keep learning for move forward☺️</em>
+   </div>
+   <br/>
+   <div align="center">
+      <h3>✉️ Contact ✉️</h3>
+      <a href="rangyun36@gamil.com"><img src="https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=rangyun36@gamil.com"/></a>
+      <a href="https://blog.naver.com/rangyun"><img src="https://img.shields.io/badge/blog-369F36?style=for-the-badge&logo=Blogger&logoColor=white&link=https://blog.naver.com/rangyun"/></a> 
+      <a href="https://www.instagram.com/again_yunn/"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/again_yunn/"/></a> 
+   </div>
+   
+   <br/>
+   <div align="center">
+      <h3>🛠 WEB/APP Development 🛠</h3>
+      <div>
+        <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=Html5&logoColor=white"> 
+      </div>
+      <div>
+        <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=Css3&logoColor=white">
+        <img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white">
+        <img src="https://img.shields.io/badge/react.js-61DAFB?style=for-the-badge&logo=React&logoColor=black"> 
+      </div>
+      <div>
+        <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
+        <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
+        <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=MySql&logoColor=white">
+        <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=Django&logoColor=white">
+        <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white"> 
+      </div>
+   </div>
+   
+   <br/>
+   <div align="center">
+      <h3>⚒ Programming Languages ⚒</h3>
+     <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> 
+     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black">
+     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
+     <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
+     <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white">
+   </div>
+   
+   <br/>
+   <div align="center">
+      <h3>🔍 Interseted Tech 🔍</h3>
+       <img src="https://img.shields.io/badge/web-000000?style=for-the-badge&logo=Mozilla&logoColor=white">
+       <img src="https://img.shields.io/badge/cloud-3693F3?style=for-the-badge&logo=iCloud&logoColor=white">
+       <img src="https://img.shields.io/badge/crypto-F7931A?style=for-the-badge&logo=Bitcoin&logoColor=white">
+   </div>
+</div>
+   
 <br>
 
+<h1><strong>❇︎ Education</strong></h1>
 
+<h3><a href="https://www.hufs.ac.kr">🏛</a>Hankuk University of Foreign Studies</h3>
+
+<strong>&nbsp;&nbsp;1st Major</strong> : Global Business & Technology
+
+<strong>&nbsp;&nbsp;2nd Major</strong> : Computer Engineering
+     
+<strong>&nbsp;&nbsp;Total GPA</strong> : 4.09 / 4.5
+
+<br/>
 
 <h1><strong>❇︎ Work Experiences</strong></h1>
 
-| <b> Company name</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <b>Period | Activity & Role </b>|
+| <b> Company </b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <b>Period | Activity & Role </b>|
 | :--- | :---: | :--- |
 | <strong>(주)Geeksloft</strong> | 22.09.01<br>~현재 |<b>프론트엔드 개발 인턴</b>|
 | <strong>(주)클루커스</strong> | 22.02.13<br>~22.09.17  |<em>*기술지원팀</em> <br>MS Azure Cloud Server 기반 고객사 VDI 모니터링, 이슈 처리 및 대응 |
 | <strong>(주)위메프오</strong> | 21.06.21 <br>~21.08.20 |<em>*위메프 소속 O2O배달어플 위메프오</em> <br> O2O운영실 사원으로 홈페이지, 모바일 어플리케이션에 상품/매장 등록&수정, 프랜차이즈업체 상품 및 매장 등록, 파트너사 관리 및 운영지원, 외부 배달 서비스 및 pos프로그램 연동, 주문 접수 프로그램 Error처리 및 대응, 사후 관리|
 | <strong>디지털유목민 </strong> <br> 근로 장학생| 21.04 <br>~21.06 |<em>*외대 창업 보육센터 입주 스타트업</em> <br>여행 관련 데이터 체계 수립 및 추출，스프레드시트 활용 일정 관리 등 프로젝트 관리 업무 자동화, 전국 시도 별 여행 콘텐츠 기획, 정부 제출용 사업 기획서 작성 보조 |
 | <strong>(유한회사) miso</strong> | 20.09.11 <br>~20.10.31 | <em>*Moving부서(미소 이사서비스) CRM팀</em><br>이사&청소 견적산출 및 이사 파트너 매칭안내 업무, 마케팅성과기록 |
-| <strong>(주)위메프</strong> | 19.12.01 <br>~20.08.29 |<em>*위메프 소속 O2O배달어플 위메프오</em> <br>삼성역 본사 O2O사업부-영업지원파트 소속 사원으로 홈페이지, 모바일 어플리케이션에 상품 및 매장 등록, 수정, 프랜차이즈업체 상품 및 매장 등록, 파트너사 관리 및 운영 지원을 포함한 전반적 지원 업무|
+| <strong>(주)위메프</strong> | 19.12.01 <br>~20.08.29 |<em>*위메프 소속 O2O배달어플 위메프오</em> <br>O2O사업부-영업지원파트 소속 사원으로 홈페이지, 모바일 어플리케이션에 상품 및 매장 등록, 수정, 프랜차이즈업체 상품 및 매장 등록, 파트너사 관리 및 운영 지원을 포함한 전반적 지원 업무|
 <br/>
-
 
 <h1><strong>❇︎ Extracurricular Activities<strong></h1>
 
-| <b> Activity name | Period | Activity & Role </b> |
+| <b> Activity | Period | Activity & Role </b> |
 |---|---|---|
 | <strong>Maker in HUFS 멘토 <br/>한국외대 AI교육원 </strong><br>멘토(웹 개발 분야) | 22.07.25<br>~22.08.22 |<em>*2022 HUFS SW Volunteer활동</em><br>웹 개발 학습 및 프로젝트를 개발하는 후배들을 위한 멘토링 활동 <br>📱[활동자료](https://sites.google.com/hufs.ac.kr/maker-in-hufs-web) |
 | <strong>한국외대X설악고등학교<br/>SW진로체험교육</strong><br>멘토(주강사) | 22.07.14 |<em>*2022 HUFS SW Volunteer활동</em><br>-강의 명: 공학계열 대학생 멘토와 함께하는 SW/AI진로설계<br>-역할: 멘토링 강의 <br> 🔉[강의교안](https://github.com/Againyunn/HUFS_SW_Education/tree/main/%ED%95%9C%EA%B5%AD%EC%99%B8%EB%8C%80%20x%20%EC%84%A4%EC%95%85%EA%B3%A0%EB%93%B1%ED%95%99%EA%B5%90%20sw%EC%A7%84%EB%A1%9C%EC%B2%B4%ED%97%98%20%EA%B5%90%EC%9C%A1%20%EA%B0%95%EC%9D%98) |
@@ -53,48 +96,5 @@ I like to create ideas that I imagined and try to keep learning for move forward
 | <strong>Industry-academic connection program</strong><br>전자상거래 실습 선발생| 20.07.28<br>~20.12.21 |<em>*중소벤처기업진흥공단 이커머스특성화대학 주관</em><br>무역상사 Zeffiro Inc와 연계하여 한국 제품을 Shopee 싱가포르에 상품 등록 및 마케팅(인플루언서 마케팅, Facebook/Instagram 마케팅), 실제 판매 <br>상품 기획 및 마케팅 전략 수립, 프로젝트 전반적 운영 지원 |
 | 학업우수 장학생 | 2017.2st semester | HUFS UP 장학금 |
 <br/>
-
-
-<h1><strong>❇︎ Programming</strong></h1>
-
-<h3>part1. Use & Studying</h3>
-<strong>🛠WEB/APP Development</strong>
-<div align=left> 
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=Html5&logoColor=white"> 
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=Css3&logoColor=white"> 
-  <img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white">
-  <img src="https://img.shields.io/badge/react.js-61DAFB?style=for-the-badge&logo=React&logoColor=black"> 
-  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
-  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=MySql&logoColor=white"> 
-  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=Django&logoColor=white">
-  <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white"> 
-</div>
-
-<br>
-
-<strong>⚒Programming Languages</strong>
-
-<div align=left> 
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> 
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
-  <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-  <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white">
-</div>
-<br>
-
-<h3>part2. Tech</h3>
-<strong>🔍Interseted Tech</strong>
-<div align=left> 
-    <img src="https://img.shields.io/badge/web-000000?style=for-the-badge&logo=Mozilla&logoColor=white">
-    <img src="https://img.shields.io/badge/cloud-3693F3?style=for-the-badge&logo=iCloud&logoColor=white">
-    <img src="https://img.shields.io/badge/crypto-F7931A?style=for-the-badge&logo=Bitcoin&logoColor=white">
-</div>
-
-
-<br/>
-<br/>
-
+      
 ![Againyunn's github stats](https://github-readme-stats.vercel.app/api?username=Againyunn&show_icons=true)
-
