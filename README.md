@@ -9,9 +9,11 @@
    <br/>
    <div align="center">
       <h3>✉️ Contact ✉️</h3>
-      <a href="rangyun36@gamil.com"><img src="https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=rangyun36@gamil.com"/></a>
       <a href="https://blog.naver.com/rangyun"><img src="https://img.shields.io/badge/blog-369F36?style=for-the-badge&logo=Blogger&logoColor=white&link=https://blog.naver.com/rangyun"/></a> 
       <a href="https://www.instagram.com/again_yunn/"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/again_yunn/"/></a> 
+            <div>
+        📧 rangyun36@gmail.com
+      </div>
    </div>
    
    <br/>
@@ -71,7 +73,7 @@
 
 | <b> Company </b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <b>Period | Activity & Role </b>|
 | :--- | :---: | :--- |
-| <strong>(주)Geeksloft</strong> | 22.09.01<br>~현재 |<b>프론트엔드 개발 인턴</b>|
+| <strong>(주)Geeksloft</strong> | 22.09.01<br>~현재 |<b>프론트엔드 개발 인턴</b> <br/> React.js 기반 쇼핑몰 프로젝트 개발 중|
 | <strong>(주)클루커스</strong> | 22.02.13<br>~22.09.17  |<em>*기술지원팀</em> <br>MS Azure Cloud Server 기반 고객사 VDI 모니터링, 이슈 처리 및 대응 |
 | <strong>(주)위메프오</strong> | 21.06.21 <br>~21.08.20 |<em>*위메프 소속 O2O배달어플 위메프오</em> <br> O2O운영실 사원으로 홈페이지, 모바일 어플리케이션에 상품/매장 등록&수정, 프랜차이즈업체 상품 및 매장 등록, 파트너사 관리 및 운영지원, 외부 배달 서비스 및 pos프로그램 연동, 주문 접수 프로그램 Error처리 및 대응, 사후 관리|
 | <strong>디지털유목민 </strong> <br> 근로 장학생| 21.04 <br>~21.06 |<em>*외대 창업 보육센터 입주 스타트업</em> <br>여행 관련 데이터 체계 수립 및 추출，스프레드시트 활용 일정 관리 등 프로젝트 관리 업무 자동화, 전국 시도 별 여행 콘텐츠 기획, 정부 제출용 사업 기획서 작성 보조 |
