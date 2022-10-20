@@ -4,7 +4,7 @@
    
    <div>
       <em>Hello. I'm junior web frontend developer.<br/>
-       I like to create ideas that I imagined and try to keep learning for move forward☺️</em>
+       I like to actualize ideas that I imagined and try to keep learning for move forward☺️</em>
    </div>
    <br/>
    <div align="center">
