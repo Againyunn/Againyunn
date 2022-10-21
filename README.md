@@ -9,10 +9,10 @@
    <br/>
    <div align="center">
       <h3>✉️ Contact ✉️</h3>
+       <img src="https://img.shields.io/badge/rangyun36@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white">
+       <div>
       <a href="https://blog.naver.com/rangyun"><img src="https://img.shields.io/badge/blog-369F36?style=for-the-badge&logo=Blogger&logoColor=white&link=https://blog.naver.com/rangyun"/></a> 
       <a href="https://www.instagram.com/again_yunn/"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/again_yunn/"/></a> 
-            <div>
-        📧 rangyun36@gmail.com
       </div>
    </div>
    
@@ -30,7 +30,6 @@
       <div>
         <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
         <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
-        <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=MySql&logoColor=white">
         <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=Django&logoColor=white">
         <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white"> 
       </div>
@@ -41,8 +40,7 @@
       <h3>⚒ Programming Languages ⚒</h3>
      <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> 
      <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black">
-     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
-     <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
+     <img src="https://img.shields.io/badge/java-F80000?style=for-the-badge&logo=Oracle&logoColor=white"> 
      <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white">
    </div>
    
