@@ -45,8 +45,9 @@ I'm also passionate about the E-Commerce field and platform industry with a mult
    <br/>
    <div align="center">
       <h3>⚒ Programming Languages ⚒</h3>
+           <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black">
+           <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white">
      <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> 
-     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black">
      <img src="https://img.shields.io/badge/java-F80000?style=for-the-badge&logo=Oracle&logoColor=white"> 
      <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white">
    </div>
