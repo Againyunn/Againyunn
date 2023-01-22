@@ -5,7 +5,7 @@
    <div>
       <em>Hello. I'm a junior web frontend developer.<br/>
 I like to convert ideas that I imagined into reality and keep pushing forward ☺️<br/>
-I'm also passionate about the E-Commerce field and platform industry with a multitude of new technology.</em>
+I'm also passionate about the Commerce field and platform industry with a multitude of new technology.</em>
    </div>
    <br/>
    <div align="center">
