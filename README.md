@@ -80,7 +80,7 @@ I'm also passionate about the E-Commerce field and platform industry with a mult
 
 | <b> Company </b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <b>Period | Activity & Role </b>|
 | :--- | :---: | :--- |
-| <strong>(주)Geeksloft</strong> | 22.09.01<br>~현재 |<em>*개발팀 프론트엔드 파트 수습연구원</em> <br/><small> 메타버스 유아쇼핑몰 Back Office 개발 중 <br/>자사 홈페이지 리뉴얼 개발 지원<br/> 개인화 질병 예측 프로젝트 개발완료</small>|
+| <strong>(주)Geeksloft</strong> | 22.09.01<br>~현재 |<em>*개발팀 프론트엔드 파트 수습연구원</em> <br/><small> 메타버스 유아쇼핑몰 Back Office 개발 중 <br/>자사 홈페이지 리뉴얼 개발 지원<br/> 개인화 질병 예측 프로젝트 개발완료 <br/>react.js, next.js base structure 설계</small>|
 | <strong>(주)클루커스</strong> | 22.02.13<br>~22.09.17  |<em>*MSP 팀원</em> <br>MS Azure Cloud Server 기반 고객사 VDI 모니터링, 이슈 처리 및 대응 |
 | <strong>(주)위메프오</strong> | 21.06.21 <br>~21.08.20 |<em>*O2O배달어플 위메프오</em> <br> O2O운영실 사원으로 홈페이지, 모바일 어플리케이션에 상품/매장 등록&수정, 프랜차이즈업체 상품 및 매장 등록, 파트너사 관리 및 운영지원, 외부 배달 서비스 및 pos프로그램 연동, 주문 접수 프로그램 Error처리 및 대응, 사후 관리|
 | <strong>디지털유목민 </strong> <br> 근로 장학생| 21.04 <br>~21.06 |<em>*외대 창업보육센터 입주 스타트업</em> <br>여행 관련 데이터 체계 수립 및 추출，스프레드시트 활용 일정 관리 등 프로젝트 관리 업무 자동화, 전국 시도 별 여행 콘텐츠 기획, 정부 제출용 사업 기획서 작성 보조 |
