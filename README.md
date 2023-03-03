@@ -79,7 +79,7 @@ I'm also passionate about the Commerce field and platform industry with a multit
 
 | <b> Company </b> | <b>Period | Activity & Role </b>|
 | :--- | :---: | :--- |
-| <strong>(주)Geeksloft</strong> | 22.09.01<br>~23.02.27 |<b>*개발팀 프론트엔드 파트 수습연구원</b> <br/><small> 메타버스 유아쇼핑몰 Back Office 개발 중 <br/>자사 홈페이지 리뉴얼 개발 지원<br/> 개인화 질병 예측 프로젝트 개발완료 <br/>react.js, next.js base structure 설계</small>|
+| <strong>(주)Geeksloft</strong> | 22.09.01<br>~23.02.28 |<b>*개발팀 프론트엔드 파트 수습연구원</b> <br/><small> 메타버스 유아쇼핑몰 Back Office 개발 중 <br/>자사 홈페이지 리뉴얼 개발 지원<br/> 개인화 질병 예측 프로젝트 개발완료 <br/>react.js, next.js base structure 설계</small>|
 | <strong>(주)클루커스</strong> | 22.02.13<br>~22.09.17  |<b>*MSP 헬프데스크</b> <br>MS Azure Cloud Server 기반 고객사 VDI 모니터링, 이슈 처리 및 대응 |
 | <strong>(주)위메프, 위메프오</strong> | 19.12.01 <br>~20.08.29, <br> 21.06.21 <br>~21.08.20 |<b>*O2O배달어플 위메프오</b> <br>O2O운영실지원파트 소속 사원으로 홈페이지, 모바일 어플리케이션에 상품/매장 등록&수정, 프랜차이즈업체 상품 및 매장 등록, 파트너사 관리 및 운영지원, 외부 배달 서비스 및 pos프로그램 연동, 주문 접수 프로그램 Error처리 및 대응, 사후 관리|
 <br/>
