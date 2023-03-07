@@ -77,11 +77,11 @@ I'm also passionate about the Commerce field and platform industry with a multit
 
 <h1><strong>❇︎ Work Experiences</strong></h1>
 
-| <b> Company </b> | <b>Period | Activity & Role </b>|
+| <b> Company | <b>Period | Activity & Role </b>|
 | :--- | :---: | :--- |
-| <strong>(주)Geeksloft</strong> | 22.09.01<br>~23.02.28 |<b>*개발팀 프론트엔드 파트 수습연구원</b> <br/><small> 메타버스 유아쇼핑몰 Back Office 개발 중 <br/>자사 홈페이지 리뉴얼 개발 지원<br/> 개인화 질병 예측 프로젝트 개발완료 <br/>react.js, next.js base structure 설계</small>|
-| <strong>(주)클루커스</strong> | 22.02.13<br>~22.09.17  |<b>*MSP 헬프데스크</b> <br>MS Azure Cloud Server 기반 고객사 VDI 모니터링, 이슈 처리 및 대응 |
-| <strong>(주)위메프, 위메프오</strong> | 19.12.01 <br>~20.08.29, <br> 21.06.21 <br>~21.08.20 |<b>*O2O배달어플 위메프오</b> <br>O2O운영실지원파트 소속 사원으로 홈페이지, 모바일 어플리케이션에 상품/매장 등록&수정, 프랜차이즈업체 상품 및 매장 등록, 파트너사 관리 및 운영지원, 외부 배달 서비스 및 pos프로그램 연동, 주문 접수 프로그램 Error처리 및 대응, 사후 관리|
+| <strong>(주)Geeksloft</strong> | 22.09<br>~23.02 |<b>*개발팀 프론트엔드 파트 수습연구원</b> <br/><small> 메타버스 유아쇼핑몰 Back Office 개발 중 <br/>자사 홈페이지 리뉴얼 개발 지원<br/> 개인화 질병 예측 프로젝트 개발완료 <br/>react.js, next.js base structure 설계</small>|
+| <strong>(주)클루커스</strong> | 22.02<br>~22.09  |<b>*MSP 헬프데스크</b> <br>MS Azure Cloud Server 기반 고객사 VDI 모니터링, 이슈 처리 및 대응 |
+| <strong>(주)위메프, 위메프오</strong> | 19.12 <br>~20.08, <br> 21.06 <br>~21.08 |<b>*O2O배달어플 위메프오</b> <br>O2O운영실지원파트 소속 사원으로 홈페이지, 모바일 어플리케이션에 상품/매장 등록&수정, 프랜차이즈업체 상품 및 매장 등록, 파트너사 관리 및 운영지원, 외부 배달 서비스 및 pos프로그램 연동, 주문 접수 프로그램 Error처리 및 대응, 사후 관리|
 <br/>
 
 <h1><strong>❇︎ Extracurricular Activities</strong></h1>
@@ -91,7 +91,7 @@ I'm also passionate about the Commerce field and platform industry with a multit
 | <strong>Reposeidon</strong><br>팀원 | 23.01.20<br>~현재 | <b>*각 직무별 팀 프로젝트</b><br>-서비스명: Reposeidon<br/>-목적: 대학생을 위한 AI기반 레포트 지원 서비스<br>-역할: Front-End개발, 프로젝트 운영&관리<br>개발 중 |
 | <strong>Maker in HUFS 멘토 <br/>한국외대 AI교육원 </strong><br>멘토(웹 개발 분야) | 22.07.25<br>~22.08.22 |<b>*2022 HUFS SW Volunteer활동</b><br>웹 개발 학습 및 프로젝트를 개발하는 후배들을 위한 멘토링 활동 <br>📱[활동자료](https://sites.google.com/hufs.ac.kr/maker-in-hufs-web) |
 | <strong>한국외대X설악고등학교<br/>SW진로체험교육</strong><br>멘토(주강사) | 22.07.14 |<b>*2022 HUFS SW Volunteer활동</b><br>-강의 명: 공학계열 대학생 멘토와 함께하는 SW/AI진로설계<br>-역할: 멘토링 강의 <br> 🔉[강의교안](https://github.com/Againyunn/HUFS_SW_Education/tree/main/%ED%95%9C%EA%B5%AD%EC%99%B8%EB%8C%80%20x%20%EC%84%A4%EC%95%85%EA%B3%A0%EB%93%B1%ED%95%99%EA%B5%90%20sw%EC%A7%84%EB%A1%9C%EC%B2%B4%ED%97%98%20%EA%B5%90%EC%9C%A1%20%EA%B0%95%EC%9D%98) |
-| <strong>sw공동해커톤</strong><br>팀장<br>🏆우수상 수상 | 22.06.22<br>~06.24 |<b>*2022 sw중심대학 공동해커톤 sw중심대학협의회장상</b><br>-서비스 명: 카페의 민족 <br>-역할: 서비스 기획, Front-End개발 <br>💻[Github link](https://github.com/SW-HACKATHON-CAMIN) |
+| <strong>SW공동해커톤</strong><br>팀장<br>🏆우수상 수상 | 22.06.22<br>~06.24 |<b>*2022 SW중심대학 공동해커톤 SW중심대학협의회장상</b><br>-서비스 명: 카페의 민족 <br>-역할: 서비스 기획, Front-End개발 <br>💻[Github link](https://github.com/SW-HACKATHON-CAMIN) |
 | <strong>22-1 종합설계</strong><br>팀장 | 22.03.07<br>~22.06.21 |<b>*한국외국어대학교 이중전공 추천 및 지원 서비스</b><br>-서비스명: 너의 이중전공은? <br>-역할: Front-End개발, UI/UX설계, API구축&개발, 프로젝트 운영&관리<br>기획 & 개발 완료 <br> 💻[Github link](https://github.com/Againyunn/Comprehensive-design) <br> ⚙[organization link](https://github.com/Whats-Your-DualMajor) <br> [📱web page](http://43.200.48.156:8080/#/) <br> [🎤PT](https://www.miricanvas.com/v/116urx9)|
 | <strong>직무부트캠프</strong> | 22.02.15<br>~22.03.15 | <b>*프론트엔드 개발 직무부트캠프 수강 및 수료</b> <br>간단한 쇼핑몰 개발 프로젝트 수행 <br>💻[Github link](https://github.com/Againyunn/now) <br> [📱web page](https://againyunn.github.io/now/) |
 | <strong>한국외대AI교육원</strong><br/>SW 수업 조교 | 22.02.07<br>~22.02.18 |<b>*한국외국어대학교 신입생 학기 전 SW 교육 조교</b><br>컴퓨팅 사고와 코딩(python programming)수업 학생들의 python 실습&과제 질의응답 <br>💻[Github link](https://github.com/Againyunn/HUFS_SW_Education) |
