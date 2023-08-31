@@ -69,7 +69,7 @@ I'm also passionate about the Commerce field and platform industry with a multit
 
 <strong>&nbsp;&nbsp;1st Major</strong> : Global Business & Technology
 
-<strong>&nbsp;&nbsp;2nd Major</strong> : Computer Engineering
+<strong>&nbsp;&nbsp;2nd Major</strong> : Computer Science Engineering
 
 <strong>&nbsp;&nbsp;GPA</strong> : 4.09 / 4.5
 
