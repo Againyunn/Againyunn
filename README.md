@@ -21,7 +21,7 @@ I'm also passionate about the Commerce field and platform industry with a multit
       <h2>🖥️ Main Skills</h2>
    </div>
    <div align="center">
-      <h3>🏢 Development SKILLS 🏢</h3>
+      <h3>🏢 Development Skills 🏢</h3>
       <div>
          <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white">
          <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=React&logoColor=black"> 
