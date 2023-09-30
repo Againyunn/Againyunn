@@ -8,34 +8,54 @@ I like to convert ideas that I imagined into reality and keep pushing forward �
 I'm also passionate about the Commerce field and platform industry with a multitude of new technology.</em>
    </div>
    <br/>
-   <div align="center">
+<!--    <div align="center">
       <h3>✉️ Contact ✉️</h3>
        <img src="https://img.shields.io/badge/rangyun36@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white">
        <div>
       <a href="https://blog.naver.com/rangyun"><img src="https://img.shields.io/badge/blog-369F36?style=for-the-badge&logo=Blogger&logoColor=white&link=https://blog.naver.com/rangyun"/></a> 
       <a href="https://www.instagram.com/again_yunn/"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/again_yunn/"/></a> 
       </div>
+   </div> -->
+   
+   <div align="start">
+      <h2>🖥️ Main Skills</h2>
+   </div>
+   <div align="center">
+      <h3>🏢 Development SKILLS 🏢</h3>
+      <div>
+         <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white">
+         <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=React&logoColor=black"> 
+         <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
+         <img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white">
+         <img src="https://img.shields.io/badge/styledComponents-DB7093?style=for-the-badge&logo=styledComponents&logoColor=white">
+      </div>
    </div>
    
+   
    <br/>
+
+   <div align="start">
+      <h2>💻 Usable & Used Skills</h2>
+   </div>
    <div align="center">
       <h3>🛠 WEB/APP Development 🛠</h3>
+<!--       <div> </div> -->
       <div>
-        <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=Html5&logoColor=white"> 
-      </div>
-      <div>
+      <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=Html5&logoColor=white">
         <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=Css3&logoColor=white">
         <img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white">
-        <img src="https://img.shields.io/badge/react.js-61DAFB?style=for-the-badge&logo=React&logoColor=black"> 
+        <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=React&logoColor=black"> 
       </div>
       <div>
-        <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
-        <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
+        <img src="https://img.shields.io/badge/springBoot-6DB33F?style=for-the-badge&logo=springBoot&logoColor=white">
         <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=Django&logoColor=white">
+        <img src="https://img.shields.io/badge/next-000000?style=for-the-badge&logo=Next.js&logoColor=white">
+        <img src="https://img.shields.io/badge/vue-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
       </div>
       <div>
          <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
          <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
+         <img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white">
          <img src="https://img.shields.io/badge/vultr-007BFC?style=for-the-badge&logo=Vultr&logoColor=white">
          <img src="https://img.shields.io/badge/aws-FF9900?style=for-the-badge&logo=AmazonEC2&logoColor=white">
       </div>
@@ -44,26 +64,25 @@ I'm also passionate about the Commerce field and platform industry with a multit
    <br/>
    <div align="center">
       <h3>⚒ Programming Languages ⚒</h3>
-           <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black">
-           <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white">
-     <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> 
-     <img src="https://img.shields.io/badge/java-F80000?style=for-the-badge&logo=Oracle&logoColor=white"> 
+          <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white">
+          <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black">
+          <img src="https://img.shields.io/badge/java-F80000?style=for-the-badge&logo=Oracle&logoColor=white"> 
+          <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> 
    </div>
    
-   <br/>
+<!--   <br/>
    <div align="center">
       <h3>🔍 Interseted Tech 🔍</h3>
        <img src="https://img.shields.io/badge/web-000000?style=for-the-badge&logo=Mozilla&logoColor=white">
        <img src="https://img.shields.io/badge/cloud-3693F3?style=for-the-badge&logo=iCloud&logoColor=white">
        <img src="https://img.shields.io/badge/crypto-F7931A?style=for-the-badge&logo=Bitcoin&logoColor=white">
        <img src="https://img.shields.io/badge/metaverse-D9272E?style=for-the-badge&logo=MEGA&logoColor=white">
-
-   </div>
+   </div> -->
 </div>
    
 <br>
 
-<h1><strong>🎓Education</strong></h1>
+<h2><strong>🎓Education</strong></h2>
 
 <h3><a href="https://www.hufs.ac.kr">🏛</a>Hankuk University of Foreign Studies</h3>
 
@@ -79,7 +98,7 @@ I'm also passionate about the Commerce field and platform industry with a multit
 
 | <b> Company | Period | Activity & Role </b>|
 |--- |---|---|
-| <strong>Fasoo</strong> | 23.03- current |<b>*개발센터 프론트엔드 개발[사원]</b> <br/>- 사내 프로젝트 관리 시스템 개선(23.04 - 23.08) <br/>- Fasoo AIR 1.1 개발(23.09 - current) |
+| <strong>Fasoo</strong> | 23.03-  |<b>*개발센터 프론트엔드 개발[사원]</b><br/>- Fasoo AIR 1.1 개발(23.09 - 23.10) <br/>- 사내 프로젝트 관리 시스템 개선(23.04 - 23.08) |
 | <strong>Geeksloft</strong> | 22.09- 23.02 |<b>*개발팀 프론트엔드 파트 수습연구원[인턴]</b> <br/>- OEM 프로젝트 프론트엔드 개발 <br/>- 자사 홈페이지 리뉴얼 |
 | <strong>클루커스</strong> | 22.02- 22.09  |<b>*MSP 헬프데스크</b> <br>- MS Azure Cloud Server 기반 고객사 VDI 모니터링<br/>- 이슈발생 시 보고 및 복구 조치<br/>- 파트너사 이슈 인입 시 보고 및 전산 처리 |
 | <strong>위메프, 위메프오</strong> | 19.12- 20.08, <br/> 21.06- 21.08 |<b>*O2O배달어플 위메프오 O2O운영실지원파트[사원]</b><br> - 홈페이지, 모바일 어플리케이션에 상품/매장 등록&수정<br/>- 프랜차이즈 업체 상품 및 매장 등록<br/>- 파트너사 관리 및 운영 지원<br/>- 외부 배달 서비스 및 pos프로그램 연동<br/>- pos프로그램 오류 발생 시, 로그 수집 및 대응 |
