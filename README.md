@@ -23,7 +23,9 @@ I'm also passionate about the Commerce field and platform industry with a multit
    <div align="center">
       <h3>🏢 Development Skills 🏢</h3>
       <div>
+         <img src="https://img.shields.io/badge/java-F80000?style=for-the-badge&logo=Oracle&logoColor=white"> 
          <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white">
+         <img src="https://img.shields.io/badge/springBoot-6DB33F?style=for-the-badge&logo=springBoot&logoColor=white">
          <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=React&logoColor=black"> 
          <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
          <img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white">
@@ -64,9 +66,9 @@ I'm also passionate about the Commerce field and platform industry with a multit
    <br/>
    <div align="center">
       <h3>⚒ Programming Languages ⚒</h3>
+          <img src="https://img.shields.io/badge/java-F80000?style=for-the-badge&logo=Oracle&logoColor=white"> 
           <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white">
           <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black">
-          <img src="https://img.shields.io/badge/java-F80000?style=for-the-badge&logo=Oracle&logoColor=white"> 
           <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> 
    </div>
    
